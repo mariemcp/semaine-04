@@ -1,2 +1,2 @@
 # semaine-04
-Exercie d'Open Food Facts
+Exercice d'Open Food Facts
