@@ -1,5 +1,5 @@
-require "open.uri"
-require "jsn
+require 'open.uri'
+require 'jsn'
 
 loop do
 puts "Entrez un numéro de code barre:"
